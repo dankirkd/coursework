@@ -1,5 +1,5 @@
 # Put your name (or username/alias) between the quotes
-name = "Daniel K"
+name = "Dan K"
 
 # Put your favorite fruit between the quotes
 favorite_fruit = "nectarine"
